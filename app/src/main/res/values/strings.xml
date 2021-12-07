@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App_lab4</string>
+    <string name="home">Home</string>
+    <string name="info">Info</string>
+    <string name="welcome">Welcome!</string>
+    <string name="training_course">Training course</string>
+    <string name="management_of_risk">Management of Risk</string>
+    <string name="how_to_use">Здесь указано описание того,
+        как работать с приложением</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+
+</resources>
